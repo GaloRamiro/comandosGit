@@ -1,1 +1,2 @@
 git clone: Sirve para copiar (clonar) un repositorio remoto a tu computadora, incluyendo todos sus archivos y su historial.
+git commit: Sirve para guardar los cambios realizados en el repositorio de forma permanente, creando una nueva versión en el historial.
